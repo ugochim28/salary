@@ -9,7 +9,7 @@
 
 # display the annual salary
 
-name = input("Please enter your name")
+name = input("Please enter your full name")
 
 salary = input("Please enter your monthly salary, i.e 5000")
 
